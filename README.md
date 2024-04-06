@@ -1,3 +1,5 @@
+[点我查看项目部署详细内容](https://mp.weixin.qq.com/s/1umtJah1ZjAZfBFbVWLbtg)
+
 推荐使用：谷歌浏览器 【QQ联系 979748385 QQ群 601569450】
 
 后台地址
