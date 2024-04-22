@@ -1,41 +1,39 @@
-[点我查看项目部署详细内容](https://mp.weixin.qq.com/s/1umtJah1ZjAZfBFbVWLbtg)
-
-推荐使用：谷歌浏览器 【QQ联系 979748385 QQ群 601569450】
-
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
-
-管理员  abo 密码 abo
 
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385】 
 
+***************************************************************
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+系统架构
 
-图书个性化推荐系统，在前台首页可以查看首页、图书信息、好书推荐、留言反馈、个人中心、后台管理等内容
+前端：html | js | css | jquery | vue
 
-![c094cce47bdab2094ef4bc8bdd611be](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/e7c34dbe-fb6c-4818-9721-5cd22f20db45)
+后端：springboot | mybatis
 
+环境：jdk1.8+ | mysql | maven
 
-学生注册、登录，在学生注册页面可以填写学号、密码、学生姓名、性别、出生日期、联系电话、班级等信息进行注册、登录
-![7cad9b54481dd044935b0478fe6db96](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/ecca2999-d146-4226-ab06-f068606dee23)
+使用说明
 
-![6ad5f5033aff38ad03a9fafdff6e1dc](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/bd0ce95c-948d-49dd-93ba-99bda55577fa)
+1、下载源码，导入IDEA
 
+2、创建数据库，执行数据库脚本
 
-图书信息，在图书信息页面通过查看图书编号、图书名称、图书类别、图片、作者、出版社、版次、数量、点击次数等信息进行预约、立即提交或点我收藏操作，如图5-3所示。在个人中心页面通过填写学号、密码、学生姓名、性别、出生日期、联系电话、班级等信息进行更新信息、退出登录操作.
+3、修改数据库JDBC连接参数
 
+4、在IDEA中运行
 
-![8dfa9a8be3ceed66ee5c52cb482aca0](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/3331b95e-ece2-4ad8-be3b-5481726219aa)
+5、打开浏览器，参考<说明文档.txt>中的地址
 
+***************************************************************
 
+![1670378bf4804985440c504550102e5](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/3488e23a-cdab-4c4e-8a5f-fce6bb4690d0)
 
-学生管理，在学生管理页面中可以通过查看学号、密码、学生姓名、性别、出生日期、联系电话、班级等内容进行修改、删除等操作，还可以根据需要对图书分类管理进行修改或删除等详细操作
-![d1e50c0dd3d4a885e0544616f678443](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/b979ed79-f61d-49a8-af94-303223b91515)
+![874f4ff7e196cccfe69a5675c50a9d4](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/837dd3b7-641f-4d34-b155-3a01e596e1fc)
 
+![90dbd24c1f73c368953d2876d0464d9](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/fb387d69-6bc4-4e19-b6fb-2e3a56863122)
+
+![3baab8829734beba20ff85dda428839](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/6b7410c7-8049-46e6-b762-36c5638bc622)
+
+![2083eaa6f00e91797a3cddf619b4b4d](https://github.com/hjsdjko/springbootp0eo6/assets/120558513/419417ec-31a8-45be-ad09-bc523c80beb1)
